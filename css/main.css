@@ -267,7 +267,7 @@ header{
 	text-transform:uppercase;
 }
 .heartline{ position:relative; overflow:hidden;}
-.heartline i {
+.heartline i{
     background: none repeat scroll 0 0 #fff;
     color: #eeac8b;
     font-size: 25px;
@@ -277,6 +277,15 @@ header{
     top: 10px;
     width: 40px;
 }
+.mapleline{
+    background: none repeat scroll 0 0 #fff;
+    left: 41%;
+    position: absolute;
+    top: -10px;
+    width: 60px;
+	padding: 5px;
+}
+
 .heartline hr {
 	height: 2px;
 	margin-left: auto;
