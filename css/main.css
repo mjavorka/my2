@@ -1404,6 +1404,11 @@ input.normal, select.normal, textarea.normal {
 	.logo {
 		left:70px;
 	}
+
+	.mb-pd-btm {
+		padding-bottom: 60px;
+	}
+	
 	.navbar-toggle {
 		float:left;
 		margin:23px 0 0 15px;
